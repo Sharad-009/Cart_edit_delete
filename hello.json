@@ -1,0 +1,42 @@
+{
+  "Mobiles": [
+    {
+      "id": "1",
+      "name": "Samsung",
+      "img": "https://samsungmobilepress.com/file/FC05AE750AD6EB0673D9E9D4C157D4FDCA91C0319D37B2827A4ACC850D3D124959298BB89A1D18EEB9531CE7B6BDB56BB43890C99A07EF46FFD865333FEC385C3A4ECDA52E32E217D32C2807BAAF403A9124FE24BD2AD9F141EA995A91D14E9095EC253173B6A26FE1DB745A586CC1ADDE7D6D440FA45C94CA365A5CF1A540E7",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "1.39,000$"
+    },
+    {
+      "id": "2",
+      "name": "Vivo",
+      "img": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1731293803965/61c8c3a32741bc501f1a8f7bf98525d9.png ",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "89,000$"
+    },
+    {
+      "id": "3",
+      "name": "Redmi",
+      "img": "https://w7.pngwing.com/pngs/569/473/png-transparent-xiaomi-mi-12-lite-phone.png",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "59,000$"
+    },
+    {
+      "id": "4",
+      "name": "Google",
+      "img": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-frosted-clear-case-cover-for-google-pixel-8-pro-images/DailyObjects-Black-Frosted-Clear-Case-Cover-For-Google-Pixel-8-Pro-1.png?tr=cm-pad_resize,v-3,w-412,h-490,dpr-2,q-60",
+      "rating": "4.8 ⭐⭐⭐⭐⭐",
+      "price": "85,500$"
+    },
+    {
+      "id": "5",
+      "name": "sung",
+      "img": "https://w7.pngwing.com/pngs/569/473/png-transparent-xiaomi-mi-12-lite-phone.png"
+    },
+    {
+      "id": "104",
+      "name": "ramsan",
+      "img": "https://images.dailyobjects.com/marche/product-images/1101/dailyobjects-black-frosted-clear-case-cover-for-google-pixel-8-pro-images/DailyObjects-Black-Frosted-Clear-Case-Cover-For-Google-Pixel-8-Pro-1.png?tr=cm-pad_resize,v-3,w-412,h-490,dpr-2,q-60"
+    }
+  ]
+}

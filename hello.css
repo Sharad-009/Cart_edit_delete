@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 3px 4px;
+    border:2px solid gray;
+    width: 200px;
+    /* height: 250px; */
+}
+.boxes{
+    border:2px solid rgb(181, 180, 180);
+    padding: 10px 14px;
+    width: 300px;
+}
+.image{
+    width: 170px;
+    height: 130px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border: 2px solid gray;
+    width: 80vw;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 30px;
+    
+}
+table, tr,td,th{
+    border: 2px solid gray;
+    
+}
